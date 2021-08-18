@@ -1,6 +1,6 @@
 # expenses_app
 
-A new Flutter project.
+A mobile application created using Flutter that helps a user monitor day-to-day expenses
 
 ## Getting Started
 
