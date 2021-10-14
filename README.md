@@ -4,7 +4,6 @@ A mobile application created using Flutter that helps a user monitor day-to-day 
 
 ![pYNaz3MPoy](https://user-images.githubusercontent.com/70170876/137259423-77a71ee5-795e-4f11-ab34-d8e9b7d5225f.gif)
 
-http://g.recordit.co/pYNaz3MPoy.gif
 
 ## Getting Started
 
