@@ -2,6 +2,8 @@
 
 A mobile application created using Flutter that helps a user monitor day-to-day expenses
 
+http://g.recordit.co/pYNaz3MPoy.gif
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
